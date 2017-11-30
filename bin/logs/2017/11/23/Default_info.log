@@ -1,0 +1,8 @@
+2017-11-23 17:06:32 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-23 17:06:32 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-23 17:06:32 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成

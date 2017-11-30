@@ -1,0 +1,162 @@
+2017-11-23 17:06:32 ERROR Exception: GetFileAttributesEx logs/2017/11/23/Default_info.log: The system cannot find the path specified.
+Stack: goroutine 26 [running]:
+runtime/debug.Stack(0xc042169cd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x83d160, 0xc04200a600, 0x8bfac7, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc04204ce00, 0xaaff60, 0xc04200a600, 0xc04200a630, 0x21, 0x8bfac7, 0x5, 0xc0421318c0, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc04204ce00, 0xaaff60, 0xc04200a600, 0xc042008460, 0x1, 0x1, 0x8a2f60)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc04204db80, 0xc0421c2380, 0x7f)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc04204db80)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-23 17:06:32 ERROR Exception: GetFileAttributesEx logs/2017/11/23/Default_debug.log: The system cannot find the file specified.
+Stack: goroutine 25 [running]:
+runtime/debug.Stack(0xc042167cd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x83d160, 0xc04200af90, 0x8bfac7, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc04204ce00, 0xaaff60, 0xc04200af90, 0xc04200afc0, 0x21, 0x8bfac7, 0x5, 0xc0421318c0, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc04204ce00, 0xaaff60, 0xc04200af90, 0xc0422b4410, 0x1, 0x1, 0x8a2f60)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc04204db00, 0xc0422ae440, 0x34)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc04204db00)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-24 16:51:41 ERROR Exception: GetFileAttributesEx logs/2017/11/24/Default_info.log: The system cannot find the path specified.
+Stack: goroutine 38 [running]:
+runtime/debug.Stack(0xc042253cd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x93bf20, 0xc04212af00, 0x9d68ca, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042162680, 0xc3c3a0, 0xc04212af00, 0xc04212af30, 0x21, 0x9d68ca, 0x5, 0xc042228a20, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042162680, 0xc3c3a0, 0xc04212af00, 0xc0422de1f0, 0x1, 0x1, 0x9b2240)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042163300, 0xc042163b00, 0x7f)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042163300)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-24 16:51:41 ERROR Exception: GetFileAttributesEx logs/2017/11/24/Default_debug.log: The system cannot find the path specified.
+Stack: goroutine 37 [running]:
+runtime/debug.Stack(0xc042259cd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x93bf20, 0xc04223fa40, 0x9d68ca, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042162680, 0xc3c3a0, 0xc04223fa40, 0xc04223fa70, 0x21, 0x9d68ca, 0x5, 0xc042228a20, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042162680, 0xc3c3a0, 0xc04223fa40, 0xc0422e3cc0, 0x1, 0x1, 0x9b2240)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042163280, 0xc042384a80, 0x34)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042163280)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-24 16:52:16 ERROR Exception: GetFileAttributesEx logs/2017/11/24/Handler_debug.log: The system cannot find the file specified.
+Stack: goroutine 62 [running]:
+runtime/debug.Stack(0xc04229fcd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x93bf20, 0xc0422c9740, 0x9d68ca, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc04212a400, 0xc3c3a0, 0xc0422c9740, 0xc0422c9770, 0x21, 0x9d68ca, 0x5, 0xc042230340, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc04212a400, 0xc3c3a0, 0xc0422c9740, 0xc0422cbf30, 0x1, 0x1, 0x9b2240)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc04212b500, 0xc0422c9590, 0x24)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc04212b500)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-27 10:37:38 ERROR Exception: GetFileAttributesEx logs/2017/11/27/Default_info.log: The system cannot find the path specified.
+Stack: goroutine 14 [running]:
+runtime/debug.Stack(0xc0421bdcd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x937000, 0xc04212b4d0, 0x9d0a92, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042178f00, 0xc333a0, 0xc04212b4d0, 0xc04212b500, 0x21, 0x9d0a92, 0x5, 0xc04219d240, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042178f00, 0xc333a0, 0xc04212b4d0, 0xc042149000, 0x1, 0x1, 0x9ac760)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042179480, 0xc042179c00, 0x7f)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042179480)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-27 10:37:38 ERROR Exception: GetFileAttributesEx logs/2017/11/27/Default_debug.log: The system cannot find the path specified.
+Stack: goroutine 13 [running]:
+runtime/debug.Stack(0xc0421bbcd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x937000, 0xc04224a8d0, 0x9d0a92, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042178f00, 0xc333a0, 0xc04224a8d0, 0xc04224a900, 0x21, 0x9d0a92, 0x5, 0xc04219d240, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042178f00, 0xc333a0, 0xc04224a8d0, 0xc0422f2260, 0x1, 0x1, 0x9ac760)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042179400, 0xc0422ecac0, 0x34)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042179400)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-28 09:32:06 ERROR Exception: GetFileAttributesEx logs/2017/11/28/Default_debug.log: The system cannot find the path specified.
+Stack: goroutine 29 [running]:
+runtime/debug.Stack(0xc0421ebcd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x92ee40, 0xc042268a80, 0x9c7248, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042181200, 0xc263a0, 0xc042268a80, 0xc042268ab0, 0x21, 0x9c7248, 0x5, 0xc0421b3b80, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042181200, 0xc263a0, 0xc042268a80, 0xc042314a80, 0x1, 0x1, 0x9a2e00)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042181700, 0xc042312880, 0x34)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042181700)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]
+2017-11-28 09:32:06 ERROR Exception: GetFileAttributesEx logs/2017/11/28/Default_info.log: The system cannot find the path specified.
+Stack: goroutine 30 [running]:
+runtime/debug.Stack(0xc0421edcd0, 0x1, 0x1)
+	C:/Go/src/runtime/debug/stack.go:24 +0x80
+github.com/devfeel/dotlog/util/exception.ConvertError(0x92ee40, 0xc0421177a0, 0x9c7248, 0x5)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/util/exception/exception.go:11 +0xad
+github.com/devfeel/dotlog/internal.(*InnerLogger).writeLog(0xc042181200, 0xc263a0, 0xc0421177a0, 0xc0421177d0, 0x21, 0x9c7248, 0x5, 0xc0421b3b80, 0x1d, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:68 +0x226
+github.com/devfeel/dotlog/internal.(*InnerLogger).Error(0xc042181200, 0xc263a0, 0xc0421177a0, 0xc042148a40, 0x1, 0x1, 0x0)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/internal/innerlogger.go:57 +0x118
+github.com/devfeel/dotlog/targets.(*FileTarget).writeTarget(0xc042181780, 0xc042181f00, 0x7f)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:74 +0x903
+github.com/devfeel/dotlog/targets.(*FileTarget).handleLog(0xc042181780)
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:51 +0x80
+created by github.com/devfeel/dotlog/targets.NewFileTarget
+	D:/webdev/golang/other/src/github.com/devfeel/dotlog/targets/target_file.go:37 +0x158
+
+[golog.writeTarget os.Stat error]

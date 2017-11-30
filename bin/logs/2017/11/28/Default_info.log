@@ -1,0 +1,304 @@
+2017-11-28 09:32:06 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 09:32:06 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 09:32:06 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 09:43:34 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 09:43:34 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 09:43:34 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 09:51:28 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 09:51:28 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 09:51:28 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:16:42 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:16:42 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:16:42 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:18:23 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:18:23 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:18:23 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:21:33 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:21:33 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:21:33 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:23:02 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:23:02 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:23:02 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:24:10 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:24:10 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:24:10 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:24:49 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:24:49 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:24:49 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:31:58 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:31:58 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:31:58 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:33:12 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:33:12 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:33:12 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:35:03 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:35:03 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:35:03 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:38:17 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:38:17 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:38:17 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:40:53 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:40:53 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:40:53 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 10:46:02 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 10:46:02 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 10:46:02 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 11:16:01 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 11:16:01 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 11:16:01 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 11:18:31 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 11:18:31 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 11:18:31 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 11:18:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 11:18:56 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 11:18:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 15:16:11 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 15:16:11 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 15:16:11 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 15:59:52 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 15:59:52 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 15:59:52 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:06:08 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:06:08 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:06:08 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:13:59 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:13:59 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:13:59 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:21:44 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:21:44 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:21:44 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:37:29 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:37:29 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:37:29 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:52:59 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:52:59 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:52:59 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 16:56:08 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 16:56:08 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 16:56:08 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 17:13:25 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 17:13:25 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 17:13:25 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:08:43 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:08:43 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:08:43 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:09:58 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:09:58 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:09:58 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:10:23 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:10:23 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:10:23 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:11:14 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:11:14 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:11:14 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:17:54 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:17:54 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:17:54 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:20:50 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:20:50 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:20:50 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:21:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:21:56 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:21:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 18:32:07 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 18:32:07 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 18:32:07 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 19:55:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 19:55:56 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 19:55:56 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 19:57:11 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 19:57:11 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 19:57:11 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
+2017-11-28 20:03:28 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]开始...
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Load AppSet Start
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Load AppSet => {"Key":"ConfigPath","Value":"XXXXXXXX"}
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Load AppSet Finished [1]
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Start Load RedisInfo
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Load RedisInfo => {"ID":"demoredis","ServerIP":"192.168.8.175:6379","DB":0,"Password":""}
+2017-11-28 20:03:28 INFO AppConfig::InitConfig Finish Load RedisInfo
+2017-11-28 20:03:28 INFO AppConfig::InitConfig 配置文件[D:/webdev/golang/goproject/src/dotapp_server/bin/app.conf]完成
