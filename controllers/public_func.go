@@ -8,8 +8,6 @@ import (
 	"time"
 	"strings"
 	"strconv"
-	"os"
-	"io"
 )
 
 type PublicFunc struct {
@@ -35,25 +33,36 @@ func (this *PublicFunc) FileUpload(ctx dotweb.Context) (err error) {
 
 }
 
-//单张图片上传
+//多张图片上传
 func (this *PublicFunc) FileUploadMore(ctx dotweb.Context) (err error) {
-	fhs:= ctx.Request().MultipartForm.File["file[]"]
-	l := len(fhs)
-	optionDirs := make([]string, l)
-	for i := 0; i < l; i++ {
-		file, err := fhs[i].Open()
-		if err != nil {
-			this.Respone(ctx,_const.CODE_FIAL,"SaveFile error " + err.Error(),nil)
-		}
-		filename := fhs[i].Filename
-		f, err := os.OpenFile("static/upload/"+filename, os.O_WRONLY|os.O_CREATE, 0666)
-		if err != nil {
-			this.Respone(ctx,_const.CODE_FIAL,"SaveFile error " + err.Error(),nil)
-		}
-		defer f.Close()
-		io.Copy(f, file)
-		optionDirs = append(optionDirs, filename)
+	fileMap, err:=ctx.Request().FormFiles()
+	l := len(fileMap)
+	if l==0 {
+		this.Respone(ctx,_const.CODE_FIAL,"请上传图片" + err.Error(),nil)
+		return
 	}
-	this.Respone(ctx,_const.CODE_SUCCESS,"上传成功",optionDirs)
+	 retString:= make([]string,len(fileMap))
+	if err!= nil{
+		this.Respone(ctx,_const.CODE_FIAL,"FormFile error " + err.Error(),nil)
+		return
+	}else {
+		 i := 0
+		for _, upload:=range fileMap{
+			if upload.Size()>1024*10 {
+				this.Respone(ctx,_const.CODE_FIAL,"文件太大，请重新上传",nil)
+				return
+			}
+			filepath:="../static/upload/" +strconv.FormatInt(time.Now().Unix(),10)+upload.FileName()
+			_, err = upload.SaveFile(filepath)
+			if err != nil {
+				this.Respone(ctx,_const.CODE_FIAL,"SaveFile error " + err.Error(),nil)
+				return
+			} else {
+				retString[i] = strings.Replace(filepath,"../","",1)
+				i++
+			}
+		}
+	}
+	this.Respone(ctx,_const.CODE_SUCCESS,"上传成功 " ,retString)
 	return
 }
